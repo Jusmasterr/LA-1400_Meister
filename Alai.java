@@ -16,7 +16,8 @@ public class Alai extends JuniorRobot
 	}
 
 	
-	public void run() {
+	public void run() 
+	{
 	
 		setColors(orange, blue, white, yellow, black);
 		
